@@ -1,0 +1,10 @@
+C:\Users\Guest\Desktop\code\C#\Salary\Salary\bin\Release\Salary.exe.config
+C:\Users\Guest\Desktop\code\C#\Salary\Salary\bin\Release\Salary.exe
+C:\Users\Guest\Desktop\code\C#\Salary\Salary\bin\Release\Salary.pdb
+C:\Users\Guest\Desktop\code\C#\Salary\Salary\obj\Release\Salary.Form1.resources
+C:\Users\Guest\Desktop\code\C#\Salary\Salary\obj\Release\Salary.Properties.Resources.resources
+C:\Users\Guest\Desktop\code\C#\Salary\Salary\obj\Release\Salary.csproj.GenerateResource.cache
+C:\Users\Guest\Desktop\code\C#\Salary\Salary\obj\Release\Salary.csproj.CoreCompileInputs.cache
+C:\Users\Guest\Desktop\code\C#\Salary\Salary\obj\Release\Salary.exe
+C:\Users\Guest\Desktop\code\C#\Salary\Salary\obj\Release\Salary.pdb
+C:\Users\Guest\Desktop\code\C#\Salary\Salary\obj\Release\Salary.csprojAssemblyReference.cache

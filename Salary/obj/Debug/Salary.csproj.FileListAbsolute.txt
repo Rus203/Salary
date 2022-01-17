@@ -1,0 +1,10 @@
+C:\Users\Guest\Desktop\code\C#\Salary\Salary\bin\Debug\Salary.exe.config
+C:\Users\Guest\Desktop\code\C#\Salary\Salary\bin\Debug\Salary.exe
+C:\Users\Guest\Desktop\code\C#\Salary\Salary\bin\Debug\Salary.pdb
+C:\Users\Guest\Desktop\code\C#\Salary\Salary\obj\Debug\Salary.csprojAssemblyReference.cache
+C:\Users\Guest\Desktop\code\C#\Salary\Salary\obj\Debug\Salary.Form1.resources
+C:\Users\Guest\Desktop\code\C#\Salary\Salary\obj\Debug\Salary.Properties.Resources.resources
+C:\Users\Guest\Desktop\code\C#\Salary\Salary\obj\Debug\Salary.csproj.GenerateResource.cache
+C:\Users\Guest\Desktop\code\C#\Salary\Salary\obj\Debug\Salary.csproj.CoreCompileInputs.cache
+C:\Users\Guest\Desktop\code\C#\Salary\Salary\obj\Debug\Salary.exe
+C:\Users\Guest\Desktop\code\C#\Salary\Salary\obj\Debug\Salary.pdb
